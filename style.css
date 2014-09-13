@@ -1,0 +1,74 @@
+.banner {
+	width: 100%;
+	height: 80px;
+	color: #646462;
+	background: #1A1A1A;
+	font-size: 50px;
+	font-family: sans-serif;
+	padding-top: 30px;
+}
+.box {
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin: 10px auto;
+	margin-left: 10px;
+	box-sizing: border-box;
+}
+.red {
+	color: #EFD6D6;
+	border: 1px solid #EFD6D6;
+}
+.titlered {
+	height: 50px;
+	background:#EFD6D6;
+	color:#A62F26;
+	font-family: sans-serif;
+}
+.titleyellow {
+	height: 50px;
+	background:#FBF6DB;
+	color:#766251;
+	font-family: sans-serif;
+}
+.titlegreen {
+	height: 50px;
+	background:#D9EDCE;
+	color:#125A1A;
+	font-family: sans-serif;
+}
+.yellow {
+	color: #FBF6DB;
+	border: 1px solid #FBF6DB;
+}
+.green {
+	color: #D9EDCE;
+	border: 1px solid #D9EDCE;
+}
+.new {
+	color: #293135;
+	border: 1px solid #D5D5D5;
+}
+.titlenew {
+	height: 50px;
+	background:#F2F2F2;
+	color:#293135;
+	font-family: sans-serif;
+}
+.content {
+	/*border: 1px solid #D6D6D6;*/
+	height: 250px;
+	width: 250px;
+	margin: 5px auto;
+}
+.line {
+	border: 1px solid #D6D6D6;
+	height: 45px;
+	color: #1D2A34;
+	font-family: sans-serif;
+	font-spacing: 10px;
+}
+.plus {
+	height: 100%;
+	width: 100%;
+}
